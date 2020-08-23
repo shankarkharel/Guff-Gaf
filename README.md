@@ -1,6 +1,8 @@
 # Guff-Gaf
 Firebase android chat app,that lets you chat.
 It uses Firebase Authentication to Authenticate a user using his/her Email .
+
+
 Its UI looks like so:
 The Register Activity
 
@@ -8,11 +10,17 @@ The Register Activity
 [![Screenshot-2020-08-23-21-40-44-01.png](https://i.postimg.cc/tCnhGgyF/Screenshot-2020-08-23-21-40-44-01.png)](https://postimg.cc/561HwbXt)
 
 
+
+
 The Login Activity
 
 
 
+
+
 [![Screenshot-2020-08-23-21-41-26-12.png](https://i.postimg.cc/nh8PQz11/Screenshot-2020-08-23-21-41-26-12.png)](https://postimg.cc/1fHHky2g)
+
+
 
 
 
@@ -23,7 +31,12 @@ The Main Activity
 
 
 
+
+
 [![Screenshot-2020-08-23-22-03-37-13.png](https://i.postimg.cc/KvLR5qny/Screenshot-2020-08-23-22-03-37-13.png)](https://postimg.cc/GHLLLj7M)
+
+
+
 
 
 
@@ -35,8 +48,13 @@ The Request fragment
 
 
 
+
+
+
 [![Screenshot-2020-08-23-13-59-03-33.png](https://i.postimg.cc/bvdPmrK2/Screenshot-2020-08-23-13-59-03-33.png)](https://postimg.cc/8F8x5pk1)
 The Chat fragment
+
+
 
 
 
@@ -51,6 +69,8 @@ The Friends Fragment
 
 
 
+
+
 [![Screenshot-2020-08-23-13-59-20-06.png](https://i.postimg.cc/WbQ0Nq7s/Screenshot-2020-08-23-13-59-20-06.png)](https://postimg.cc/tYNsDTfc)
 
 
@@ -58,7 +78,12 @@ The Friends Fragment
 
 
 
+
+
 The User can switch To Registration activity Log themself Out and View All User by clicking menu button at the top right corner
+
+
+
 
 
 
@@ -74,7 +99,12 @@ The User can switch To Registration activity Log themself Out and View All User 
 
 
 
+
+
 All Users of app apears here and the current user can send them request from here
+
+
+
 
 
 
@@ -91,7 +121,14 @@ User status and profile setting Activity:
 
 
 
+
+
 [![Screenshot-2020-08-23-21-40-31-67.png](https://i.postimg.cc/tJgCGkc2/Screenshot-2020-08-23-21-40-31-67.png)](https://postimg.cc/HcfCQwdy)
+
+
+
+
+
 Chat Activity Ui
 
 
