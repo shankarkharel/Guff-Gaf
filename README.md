@@ -11,7 +11,9 @@ The Register Activity
 The Login Activity
 
 
+
 [![Screenshot-2020-08-23-21-41-26-12.png](https://i.postimg.cc/nh8PQz11/Screenshot-2020-08-23-21-41-26-12.png)](https://postimg.cc/1fHHky2g)
+
 
 
 It Takes the user To main Activity if s/he is already loged in and if not redirects to register/log in Activity
@@ -19,15 +21,25 @@ The UI of Main Activity is like so:
 The Main Activity
 
 
+
+
 [![Screenshot-2020-08-23-22-03-37-13.png](https://i.postimg.cc/KvLR5qny/Screenshot-2020-08-23-22-03-37-13.png)](https://postimg.cc/GHLLLj7M)
+
+
+
 
 
 The Main Activity contains Three fragment and its layout looks like so:
 The Request fragment
 
 
+
+
 [![Screenshot-2020-08-23-13-59-03-33.png](https://i.postimg.cc/bvdPmrK2/Screenshot-2020-08-23-13-59-03-33.png)](https://postimg.cc/8F8x5pk1)
 The Chat fragment
+
+
+
 
 
 
@@ -36,7 +48,13 @@ The Friends Fragment
 
 
 
+
+
+
 [![Screenshot-2020-08-23-13-59-20-06.png](https://i.postimg.cc/WbQ0Nq7s/Screenshot-2020-08-23-13-59-20-06.png)](https://postimg.cc/tYNsDTfc)
+
+
+
 
 
 
@@ -45,11 +63,20 @@ The User can switch To Registration activity Log themself Out and View All User 
 
 
 
+
+
 [![IMG-20200823-222513.jpg](https://i.postimg.cc/HsGQH7zd/IMG-20200823-222513.jpg)](https://postimg.cc/hhrJ1vN5)
 
 
 
+
+
+
+
+
 All Users of app apears here and the current user can send them request from here
+
+
 
 
 
@@ -73,5 +100,12 @@ Chat Activity Ui
 
 [![Screenshot-2020-08-23-22-33-09-21.png](https://i.postimg.cc/VkXwT26z/Screenshot-2020-08-23-22-33-09-21.png)](https://postimg.cc/Yv2TLnYP)
 
+
+
+
+
+
+
+The only purpose of Developing this was to learn and Know about Android studio and Java.
 
 ===================Thanks!================================
