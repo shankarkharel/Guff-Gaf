@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="More"
+    android:icon="@drawable/ic_more"
+    app:showAsAction="ifRoom">
+    <menu>
+        <item
+        android:id="@+id/chat_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="CLEAR CONO"
+        app:showAsAction="never"/>
+        <item
+            android:id="@+id/chat_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="SEARCH"
+            app:actionViewClass="android.widget.SearchView"
+            app:showAsAction="never"/>
+
+    </menu>
+
+</item>
+
+
+</menu>
